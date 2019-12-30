@@ -1,0 +1,5 @@
+#!/bin/bash
+for i in {10000..10399}
+do
+  ./playc.sh lookt $i
+done

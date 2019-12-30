@@ -1,0 +1,1600 @@
+Connecting to port 10000
+
+Player X wins (triple)
+
+Connecting to port 10001
+
+Player X wins (triple)
+
+Connecting to port 10002
+
+Player X wins (triple)
+
+Connecting to port 10003
+
+Player X wins (triple)
+
+Connecting to port 10004
+
+Player X wins (triple)
+
+Connecting to port 10005
+
+Player X wins (triple)
+
+Connecting to port 10006
+
+Player X wins (triple)
+
+Connecting to port 10007
+
+Player X wins (triple)
+
+Connecting to port 10008
+
+Player X wins (triple)
+
+Connecting to port 10009
+
+Player X wins (triple)
+
+Connecting to port 10010
+
+Player X wins (triple)
+
+Connecting to port 10011
+
+Player X wins (triple)
+
+Connecting to port 10012
+
+Player X wins (triple)
+
+Connecting to port 10013
+
+Player X wins (triple)
+
+Connecting to port 10014
+
+Player X wins (triple)
+
+Connecting to port 10015
+
+Player X wins (triple)
+
+Connecting to port 10016
+
+Player X wins (triple)
+
+Connecting to port 10017
+
+Player X wins (triple)
+
+Connecting to port 10018
+
+Player X wins (triple)
+
+Connecting to port 10019
+
+Player X wins (triple)
+
+Connecting to port 10020
+
+Player O wins (triple)
+
+Connecting to port 10021
+
+Player X wins (triple)
+
+Connecting to port 10022
+
+Player X wins (triple)
+
+Connecting to port 10023
+
+Player X wins (triple)
+
+Connecting to port 10024
+
+Player X wins (triple)
+
+Connecting to port 10025
+
+Player X wins (triple)
+
+Connecting to port 10026
+
+Player X wins (triple)
+
+Connecting to port 10027
+
+Player X wins (triple)
+
+Connecting to port 10028
+
+Player X wins (triple)
+
+Connecting to port 10029
+
+Player X wins (triple)
+
+Connecting to port 10030
+
+Player X wins (triple)
+
+Connecting to port 10031
+
+Player X wins (triple)
+
+Connecting to port 10032
+
+Player X wins (triple)
+
+Connecting to port 10033
+
+Player X wins (triple)
+
+Connecting to port 10034
+
+Player X wins (triple)
+
+Connecting to port 10035
+
+Player X wins (triple)
+
+Connecting to port 10036
+
+Player X wins (triple)
+
+Connecting to port 10037
+
+Player X wins (triple)
+
+Connecting to port 10038
+
+Player O wins (triple)
+
+Connecting to port 10039
+
+Player X wins (triple)
+
+Connecting to port 10040
+
+Player X wins (triple)
+
+Connecting to port 10041
+
+Player X wins (triple)
+
+Connecting to port 10042
+
+Player X wins (triple)
+
+Connecting to port 10043
+
+Player X wins (triple)
+
+Connecting to port 10044
+
+Player X wins (triple)
+
+Connecting to port 10045
+
+Player X wins (triple)
+
+Connecting to port 10046
+
+Player X wins (triple)
+
+Connecting to port 10047
+
+Player X wins (triple)
+
+Connecting to port 10048
+
+Player X wins (triple)
+
+Connecting to port 10049
+
+Player X wins (triple)
+
+Connecting to port 10050
+
+Player X wins (triple)
+
+Connecting to port 10051
+
+Player X wins (triple)
+
+Connecting to port 10052
+
+Player X wins (triple)
+
+Connecting to port 10053
+
+Player X wins (triple)
+
+Connecting to port 10054
+
+Player X wins (triple)
+
+Connecting to port 10055
+
+Player X wins (triple)
+
+Connecting to port 10056
+
+Player X wins (triple)
+
+Connecting to port 10057
+
+Player O wins (triple)
+
+Connecting to port 10058
+
+Player X wins (triple)
+
+Connecting to port 10059
+
+Player X wins (triple)
+
+Connecting to port 10060
+
+Player X wins (triple)
+
+Connecting to port 10061
+
+Player X wins (triple)
+
+Connecting to port 10062
+
+Player X wins (triple)
+
+Connecting to port 10063
+
+Player X wins (triple)
+
+Connecting to port 10064
+
+Player X wins (triple)
+
+Connecting to port 10065
+
+Player X wins (triple)
+
+Connecting to port 10066
+
+Player X wins (triple)
+
+Connecting to port 10067
+
+Player X wins (triple)
+
+Connecting to port 10068
+
+Player X wins (triple)
+
+Connecting to port 10069
+
+Player X wins (triple)
+
+Connecting to port 10070
+
+Player X wins (triple)
+
+Connecting to port 10071
+
+Player X wins (triple)
+
+Connecting to port 10072
+
+Player O wins (triple)
+
+Connecting to port 10073
+
+Player X wins (triple)
+
+Connecting to port 10074
+
+Player X wins (triple)
+
+Connecting to port 10075
+
+Player X wins (triple)
+
+Connecting to port 10076
+
+Player X wins (triple)
+
+Connecting to port 10077
+
+Player X wins (triple)
+
+Connecting to port 10078
+
+Player O wins (triple)
+
+Connecting to port 10079
+
+Player X wins (triple)
+
+Connecting to port 10080
+
+Player X wins (triple)
+
+Connecting to port 10081
+
+Player X wins (triple)
+
+Connecting to port 10082
+
+Player X wins (triple)
+
+Connecting to port 10083
+
+Player X wins (triple)
+
+Connecting to port 10084
+
+Player X wins (triple)
+
+Connecting to port 10085
+
+Player X wins (triple)
+
+Connecting to port 10086
+
+Player O wins (triple)
+
+Connecting to port 10087
+
+Player X wins (triple)
+
+Connecting to port 10088
+
+Player X wins (triple)
+
+Connecting to port 10089
+
+Player X wins (triple)
+
+Connecting to port 10090
+
+Player X wins (triple)
+
+Connecting to port 10091
+
+Player X wins (triple)
+
+Connecting to port 10092
+
+Player X wins (triple)
+
+Connecting to port 10093
+
+Player X wins (triple)
+
+Connecting to port 10094
+
+Player X wins (triple)
+
+Connecting to port 10095
+
+Player X wins (triple)
+
+Connecting to port 10096
+
+Player X wins (triple)
+
+Connecting to port 10097
+
+Player X wins (triple)
+
+Connecting to port 10098
+
+Player X wins (triple)
+
+Connecting to port 10099
+
+Player X wins (triple)
+
+Connecting to port 10100
+
+Player X wins (triple)
+
+Connecting to port 10101
+
+Player X wins (triple)
+
+Connecting to port 10102
+
+Player X wins (triple)
+
+Connecting to port 10103
+
+Player X wins (triple)
+
+Connecting to port 10104
+
+Player X wins (triple)
+
+Connecting to port 10105
+
+Player X wins (triple)
+
+Connecting to port 10106
+
+Player X wins (triple)
+
+Connecting to port 10107
+
+Player X wins (triple)
+
+Connecting to port 10108
+
+Player X wins (triple)
+
+Connecting to port 10109
+
+Player X wins (triple)
+
+Connecting to port 10110
+
+Player X wins (triple)
+
+Connecting to port 10111
+
+Player X wins (triple)
+
+Connecting to port 10112
+
+Player X wins (triple)
+
+Connecting to port 10113
+
+Player X wins (triple)
+
+Connecting to port 10114
+
+Player X wins (triple)
+
+Connecting to port 10115
+
+Player X wins (triple)
+
+Connecting to port 10116
+
+Player X wins (triple)
+
+Connecting to port 10117
+
+Player X wins (triple)
+
+Connecting to port 10118
+
+Player X wins (triple)
+
+Connecting to port 10119
+
+Player X wins (triple)
+
+Connecting to port 10120
+
+Player X wins (triple)
+
+Connecting to port 10121
+
+Player X wins (triple)
+
+Connecting to port 10122
+
+Player X wins (triple)
+
+Connecting to port 10123
+
+Player X wins (triple)
+
+Connecting to port 10124
+
+Player X wins (triple)
+
+Connecting to port 10125
+
+Player O wins (triple)
+
+Connecting to port 10126
+
+Player X wins (triple)
+
+Connecting to port 10127
+
+Player X wins (triple)
+
+Connecting to port 10128
+
+Player X wins (triple)
+
+Connecting to port 10129
+
+Player O wins (triple)
+
+Connecting to port 10130
+
+Player X wins (triple)
+
+Connecting to port 10131
+
+Player X wins (triple)
+
+Connecting to port 10132
+
+Player X wins (triple)
+
+Connecting to port 10133
+
+Player X wins (triple)
+
+Connecting to port 10134
+
+Player X wins (triple)
+
+Connecting to port 10135
+
+Player X wins (triple)
+
+Connecting to port 10136
+
+Player X wins (triple)
+
+Connecting to port 10137
+
+Player X wins (triple)
+
+Connecting to port 10138
+
+Player X wins (triple)
+
+Connecting to port 10139
+
+Player X wins (triple)
+
+Connecting to port 10140
+
+Player X wins (triple)
+
+Connecting to port 10141
+
+Player X wins (triple)
+
+Connecting to port 10142
+
+Player X wins (triple)
+
+Connecting to port 10143
+
+Player X wins (triple)
+
+Connecting to port 10144
+
+Player X wins (triple)
+
+Connecting to port 10145
+
+Player X wins (triple)
+
+Connecting to port 10146
+
+Player X wins (triple)
+
+Connecting to port 10147
+
+Player X wins (triple)
+
+Connecting to port 10148
+
+Player X wins (triple)
+
+Connecting to port 10149
+
+Player X wins (triple)
+
+Connecting to port 10150
+
+Player X wins (triple)
+
+Connecting to port 10151
+
+Player X wins (triple)
+
+Connecting to port 10152
+
+Player X wins (triple)
+
+Connecting to port 10153
+
+Player X wins (triple)
+
+Connecting to port 10154
+
+Player X wins (triple)
+
+Connecting to port 10155
+
+Player X wins (triple)
+
+Connecting to port 10156
+
+Player X wins (triple)
+
+Connecting to port 10157
+
+Player X wins (triple)
+
+Connecting to port 10158
+
+Player X wins (triple)
+
+Connecting to port 10159
+
+Player X wins (triple)
+
+Connecting to port 10160
+
+Player X wins (triple)
+
+Connecting to port 10161
+
+Player X wins (triple)
+
+Connecting to port 10162
+
+Player X wins (triple)
+
+Connecting to port 10163
+
+Player X wins (triple)
+
+Connecting to port 10164
+
+Player X wins (triple)
+
+Connecting to port 10165
+
+Player X wins (triple)
+
+Connecting to port 10166
+
+Player X wins (triple)
+
+Connecting to port 10167
+
+Player X wins (triple)
+
+Connecting to port 10168
+
+Player X wins (triple)
+
+Connecting to port 10169
+
+Player X wins (triple)
+
+Connecting to port 10170
+
+Player X wins (triple)
+
+Connecting to port 10171
+
+Player X wins (triple)
+
+Connecting to port 10172
+
+Player X wins (triple)
+
+Connecting to port 10173
+
+Player X wins (triple)
+
+Connecting to port 10174
+
+Player X wins (triple)
+
+Connecting to port 10175
+
+Player X wins (triple)
+
+Connecting to port 10176
+
+Player X wins (triple)
+
+Connecting to port 10177
+
+Player X wins (triple)
+
+Connecting to port 10178
+
+Player X wins (triple)
+
+Connecting to port 10179
+
+Player X wins (triple)
+
+Connecting to port 10180
+
+Player X wins (triple)
+
+Connecting to port 10181
+
+Player X wins (triple)
+
+Connecting to port 10182
+
+Player X wins (triple)
+
+Connecting to port 10183
+
+Player X wins (triple)
+
+Connecting to port 10184
+
+Player X wins (triple)
+
+Connecting to port 10185
+
+Player X wins (triple)
+
+Connecting to port 10186
+
+Player X wins (triple)
+
+Connecting to port 10187
+
+Player X wins (triple)
+
+Connecting to port 10188
+
+Player X wins (triple)
+
+Connecting to port 10189
+
+Player X wins (triple)
+
+Connecting to port 10190
+
+Player X wins (triple)
+
+Connecting to port 10191
+
+Player X wins (triple)
+
+Connecting to port 10192
+
+Player X wins (triple)
+
+Connecting to port 10193
+
+Player X wins (triple)
+
+Connecting to port 10194
+
+Player X wins (triple)
+
+Connecting to port 10195
+
+Player X wins (triple)
+
+Connecting to port 10196
+
+Player X wins (triple)
+
+Connecting to port 10197
+
+Player X wins (triple)
+
+Connecting to port 10198
+
+Player X wins (triple)
+
+Connecting to port 10199
+
+Player X wins (triple)
+
+Connecting to port 10200
+
+Player X wins (triple)
+
+Connecting to port 10201
+
+Player X wins (triple)
+
+Connecting to port 10202
+
+Player X wins (triple)
+
+Connecting to port 10203
+
+Player X wins (triple)
+
+Connecting to port 10204
+
+Player X wins (triple)
+
+Connecting to port 10205
+
+Player X wins (triple)
+
+Connecting to port 10206
+
+Player X wins (triple)
+
+Connecting to port 10207
+
+Player X wins (triple)
+
+Connecting to port 10208
+
+Player X wins (triple)
+
+Connecting to port 10209
+
+Player X wins (triple)
+
+Connecting to port 10210
+
+Player X wins (triple)
+
+Connecting to port 10211
+
+Player X wins (triple)
+
+Connecting to port 10212
+
+Player X wins (triple)
+
+Connecting to port 10213
+
+Player X wins (triple)
+
+Connecting to port 10214
+
+Player X wins (triple)
+
+Connecting to port 10215
+
+Player X wins (triple)
+
+Connecting to port 10216
+
+Player X wins (triple)
+
+Connecting to port 10217
+
+Player X wins (triple)
+
+Connecting to port 10218
+
+Player X wins (triple)
+
+Connecting to port 10219
+
+Player X wins (triple)
+
+Connecting to port 10220
+
+Player X wins (triple)
+
+Connecting to port 10221
+
+Player X wins (triple)
+
+Connecting to port 10222
+
+Player X wins (triple)
+
+Connecting to port 10223
+
+Player X wins (triple)
+
+Connecting to port 10224
+
+Player X wins (triple)
+
+Connecting to port 10225
+
+Player X wins (triple)
+
+Connecting to port 10226
+
+Player X wins (triple)
+
+Connecting to port 10227
+
+Player X wins (triple)
+
+Connecting to port 10228
+
+Player X wins (triple)
+
+Connecting to port 10229
+
+Player X wins (triple)
+
+Connecting to port 10230
+
+Player X wins (triple)
+
+Connecting to port 10231
+
+Player X wins (triple)
+
+Connecting to port 10232
+
+Player X wins (triple)
+
+Connecting to port 10233
+
+Player X wins (triple)
+
+Connecting to port 10234
+
+Player X wins (triple)
+
+Connecting to port 10235
+
+Player X wins (triple)
+
+Connecting to port 10236
+
+Player X wins (triple)
+
+Connecting to port 10237
+
+Player X wins (triple)
+
+Connecting to port 10238
+
+Player X wins (triple)
+
+Connecting to port 10239
+
+Player X wins (triple)
+
+Connecting to port 10240
+
+Player X wins (triple)
+
+Connecting to port 10241
+
+Player X wins (triple)
+
+Connecting to port 10242
+
+Player X wins (triple)
+
+Connecting to port 10243
+
+Player X wins (triple)
+
+Connecting to port 10244
+
+Player X wins (triple)
+
+Connecting to port 10245
+
+Player X wins (triple)
+
+Connecting to port 10246
+
+Player X wins (triple)
+
+Connecting to port 10247
+
+Player X wins (triple)
+
+Connecting to port 10248
+
+Player X wins (triple)
+
+Connecting to port 10249
+
+Player X wins (triple)
+
+Connecting to port 10250
+
+Player X wins (triple)
+
+Connecting to port 10251
+
+Player X wins (triple)
+
+Connecting to port 10252
+
+Player X wins (triple)
+
+Connecting to port 10253
+
+Player X wins (triple)
+
+Connecting to port 10254
+
+Player X wins (triple)
+
+Connecting to port 10255
+
+Player X wins (triple)
+
+Connecting to port 10256
+
+Player X wins (triple)
+
+Connecting to port 10257
+
+Player X wins (triple)
+
+Connecting to port 10258
+
+Player X wins (triple)
+
+Connecting to port 10259
+
+Player X wins (triple)
+
+Connecting to port 10260
+
+Player X wins (triple)
+
+Connecting to port 10261
+
+Player X wins (triple)
+
+Connecting to port 10262
+
+Player X wins (triple)
+
+Connecting to port 10263
+
+Player X wins (triple)
+
+Connecting to port 10264
+
+Player X wins (triple)
+
+Connecting to port 10265
+
+Player X wins (triple)
+
+Connecting to port 10266
+
+Player X wins (triple)
+
+Connecting to port 10267
+
+Player X wins (triple)
+
+Connecting to port 10268
+
+Player X wins (triple)
+
+Connecting to port 10269
+
+Player X wins (triple)
+
+Connecting to port 10270
+
+Player X wins (triple)
+
+Connecting to port 10271
+
+Player X wins (triple)
+
+Connecting to port 10272
+
+Player X wins (triple)
+
+Connecting to port 10273
+
+Player X wins (triple)
+
+Connecting to port 10274
+
+Player X wins (triple)
+
+Connecting to port 10275
+
+Player X wins (triple)
+
+Connecting to port 10276
+
+Player X wins (triple)
+
+Connecting to port 10277
+
+Player X wins (triple)
+
+Connecting to port 10278
+
+Player X wins (triple)
+
+Connecting to port 10279
+
+Player X wins (triple)
+
+Connecting to port 10280
+
+Player X wins (triple)
+
+Connecting to port 10281
+
+Player X wins (triple)
+
+Connecting to port 10282
+
+Player X wins (triple)
+
+Connecting to port 10283
+
+Player X wins (triple)
+
+Connecting to port 10284
+
+Player X wins (triple)
+
+Connecting to port 10285
+
+Player O wins (triple)
+
+Connecting to port 10286
+
+Player X wins (triple)
+
+Connecting to port 10287
+
+Player X wins (triple)
+
+Connecting to port 10288
+
+Player X wins (triple)
+
+Connecting to port 10289
+
+Player X wins (triple)
+
+Connecting to port 10290
+
+Player X wins (triple)
+
+Connecting to port 10291
+
+Player X wins (triple)
+
+Connecting to port 10292
+
+Player X wins (triple)
+
+Connecting to port 10293
+
+Player X wins (triple)
+
+Connecting to port 10294
+
+Player X wins (triple)
+
+Connecting to port 10295
+
+Player X wins (triple)
+
+Connecting to port 10296
+
+Player X wins (triple)
+
+Connecting to port 10297
+
+Player X wins (triple)
+
+Connecting to port 10298
+
+Player X wins (triple)
+
+Connecting to port 10299
+
+Player X wins (triple)
+
+Connecting to port 10300
+
+Player X wins (triple)
+
+Connecting to port 10301
+
+Player X wins (triple)
+
+Connecting to port 10302
+
+Player X wins (triple)
+
+Connecting to port 10303
+
+Player X wins (triple)
+
+Connecting to port 10304
+
+Player X wins (triple)
+
+Connecting to port 10305
+
+Player X wins (triple)
+
+Connecting to port 10306
+
+Player X wins (triple)
+
+Connecting to port 10307
+
+Player X wins (triple)
+
+Connecting to port 10308
+
+Player X wins (triple)
+
+Connecting to port 10309
+
+Player X wins (triple)
+
+Connecting to port 10310
+
+Player X wins (triple)
+
+Connecting to port 10311
+
+Player X wins (triple)
+
+Connecting to port 10312
+
+Player X wins (triple)
+
+Connecting to port 10313
+
+Player X wins (triple)
+
+Connecting to port 10314
+
+Player X wins (triple)
+
+Connecting to port 10315
+
+Player X wins (triple)
+
+Connecting to port 10316
+
+Player X wins (triple)
+
+Connecting to port 10317
+
+Player X wins (triple)
+
+Connecting to port 10318
+
+Player X wins (triple)
+
+Connecting to port 10319
+
+Player O wins (triple)
+
+Connecting to port 10320
+
+Player X wins (triple)
+
+Connecting to port 10321
+
+Player X wins (triple)
+
+Connecting to port 10322
+
+Player X wins (triple)
+
+Connecting to port 10323
+
+Player X wins (triple)
+
+Connecting to port 10324
+
+Player X wins (triple)
+
+Connecting to port 10325
+
+Player X wins (triple)
+
+Connecting to port 10326
+
+Player X wins (triple)
+
+Connecting to port 10327
+
+Player X wins (triple)
+
+Connecting to port 10328
+
+Player X wins (triple)
+
+Connecting to port 10329
+
+Player X wins (triple)
+
+Connecting to port 10330
+
+Player X wins (triple)
+
+Connecting to port 10331
+
+Player X wins (triple)
+
+Connecting to port 10332
+
+Player X wins (triple)
+
+Connecting to port 10333
+
+Player X wins (triple)
+
+Connecting to port 10334
+
+Player X wins (triple)
+
+Connecting to port 10335
+
+Player X wins (triple)
+
+Connecting to port 10336
+
+Player O wins (triple)
+
+Connecting to port 10337
+
+Player X wins (triple)
+
+Connecting to port 10338
+
+Player X wins (triple)
+
+Connecting to port 10339
+
+Player X wins (triple)
+
+Connecting to port 10340
+
+Player X wins (triple)
+
+Connecting to port 10341
+
+Player X wins (triple)
+
+Connecting to port 10342
+
+Player X wins (triple)
+
+Connecting to port 10343
+
+Player X wins (triple)
+
+Connecting to port 10344
+
+Player X wins (triple)
+
+Connecting to port 10345
+
+Player X wins (triple)
+
+Connecting to port 10346
+
+Player X wins (triple)
+
+Connecting to port 10347
+
+Player X wins (triple)
+
+Connecting to port 10348
+
+Player X wins (triple)
+
+Connecting to port 10349
+
+Player X wins (triple)
+
+Connecting to port 10350
+
+Player X wins (triple)
+
+Connecting to port 10351
+
+Player O wins (triple)
+
+Connecting to port 10352
+
+Player X wins (triple)
+
+Connecting to port 10353
+
+Player X wins (triple)
+
+Connecting to port 10354
+
+Player X wins (triple)
+
+Connecting to port 10355
+
+Player X wins (triple)
+
+Connecting to port 10356
+
+Player X wins (triple)
+
+Connecting to port 10357
+
+Player X wins (triple)
+
+Connecting to port 10358
+
+Player X wins (triple)
+
+Connecting to port 10359
+
+Player X wins (triple)
+
+Connecting to port 10360
+
+Player O wins (triple)
+
+Connecting to port 10361
+
+Player X wins (triple)
+
+Connecting to port 10362
+
+Player X wins (triple)
+
+Connecting to port 10363
+
+Player X wins (triple)
+
+Connecting to port 10364
+
+Player X wins (triple)
+
+Connecting to port 10365
+
+Player X wins (triple)
+
+Connecting to port 10366
+
+Player X wins (triple)
+
+Connecting to port 10367
+
+Player X wins (triple)
+
+Connecting to port 10368
+
+Player X wins (triple)
+
+Connecting to port 10369
+
+Player X wins (triple)
+
+Connecting to port 10370
+
+Player X wins (triple)
+
+Connecting to port 10371
+
+Player X wins (triple)
+
+Connecting to port 10372
+
+Player X wins (triple)
+
+Connecting to port 10373
+
+Player X wins (triple)
+
+Connecting to port 10374
+
+Player X wins (triple)
+
+Connecting to port 10375
+
+Player X wins (triple)
+
+Connecting to port 10376
+
+Player X wins (triple)
+
+Connecting to port 10377
+
+Player X wins (triple)
+
+Connecting to port 10378
+
+Player X wins (triple)
+
+Connecting to port 10379
+
+Player X wins (triple)
+
+Connecting to port 10380
+
+Player X wins (triple)
+
+Connecting to port 10381
+
+Player X wins (triple)
+
+Connecting to port 10382
+
+Player X wins (triple)
+
+Connecting to port 10383
+
+Player X wins (triple)
+
+Connecting to port 10384
+
+Player X wins (triple)
+
+Connecting to port 10385
+
+Player X wins (triple)
+
+Connecting to port 10386
+
+Player X wins (triple)
+
+Connecting to port 10387
+
+Player X wins (triple)
+
+Connecting to port 10388
+
+Player X wins (triple)
+
+Connecting to port 10389
+
+Player X wins (triple)
+
+Connecting to port 10390
+
+Player X wins (triple)
+
+Connecting to port 10391
+
+Player X wins (triple)
+
+Connecting to port 10392
+
+Player X wins (triple)
+
+Connecting to port 10393
+
+Player X wins (triple)
+
+Connecting to port 10394
+
+Player X wins (triple)
+
+Connecting to port 10395
+
+Player X wins (triple)
+
+Connecting to port 10396
+
+Player X wins (triple)
+
+Connecting to port 10397
+
+Player X wins (triple)
+
+Connecting to port 10398
+
+Player X wins (triple)
+
+Connecting to port 10399
+
+Player X wins (triple)
+
